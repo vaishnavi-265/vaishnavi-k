@@ -1,122 +1,187 @@
-# Hi, I'm Vaishnavi Kandakatla 👋
+<div align="center">
 
-### Software Engineer | AI Engineer | Generative AI | Agentic AI | RAG | MCP
+# 👋 Hi, I'm Vaishnavi Kandakatla
 
-📍 Memphis, TN  
-📧 vaishuvishnupriya8121@gmail.com  
-📞 +1 980-257-2628  
+### AI Engineer • Software Engineer • Builder of Production AI Systems
 
----
+**Agentic AI · RAG · MCP · LLM Applications · Backend Engineering · Enterprise AI**
 
-## About Me
+📍 Memphis, TN &nbsp;•&nbsp; 📧 vaishuvishnupriya8121@gmail.com
 
-I am a **Software Engineer and AI Engineer with 4+ years of experience** building backend services, enterprise applications, cloud-native solutions, and AI-powered systems.
+[![GitHub](https://img.shields.io/badge/GitHub-vaishnavi--265-181717?style=for-the-badge&logo=github)](https://github.com/vaishnavi-265)
+[![Email](https://img.shields.io/badge/Email-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishuvishnupriya8121@gmail.com)
 
-My experience spans **Python, Java, FastAPI, REST APIs, microservices, SQL, AWS, Azure, Docker, CI/CD, Generative AI, Large Language Models, Retrieval-Augmented Generation (RAG), AI agents, and enterprise automation**.
-
-I have built scalable APIs, integrated enterprise platforms such as **SAP and ServiceNow**, deployed production-ready AI applications, and improved system performance, reliability, and operational efficiency.
-
-I enjoy translating complex business requirements into secure, maintainable, and scalable software solutions.
+</div>
 
 ---
 
-## Tech Stack
+## 🧠 What I Build
 
-### Programming & Backend
-`Python` `Java` `JavaScript` `Shell` `FastAPI` `Flask` `REST APIs` `Microservices` `OOP` `Async Processing`
+I build **AI systems that move beyond demos into real applications** — intelligent agents that use tools, RAG platforms that retrieve the right enterprise context, and backend services that connect LLMs with real business workflows.
 
-### AI & Generative AI
-`Generative AI` `LLMs` `GPT-4` `Llama` `LangGraph` `LangChain` `MCP` `RAG` `AI Agents` `Multi-Agent Systems` `Tool Calling` `Prompt Engineering`
+My work sits at the intersection of **AI engineering, backend development, cloud infrastructure, and enterprise integration**. I have worked with large-scale vector retrieval, agentic workflows, recommendation systems, SAP and ServiceNow integrations, and production AI services across AWS, Azure, and GCP.
 
-### Retrieval & Vector Search
-`Sentence-BERT` `FAISS` `Pinecone` `Embeddings` `Semantic Search` `Re-Ranking` `Contextual Compression`
-
-### Cloud & DevOps
-`AWS EC2` `AWS S3` `AWS Lambda` `Microsoft Azure` `Azure OpenAI` `Azure AI Search` `Azure Functions` `Azure Container Apps` `Azure App Service` `GCP` `Vertex AI` `Docker` `GitHub Actions` `Jenkins` `CI/CD` `Rundeck`
-
-### Enterprise Integration
-`ServiceNow ITSM` `ServiceNow REST API` `SAP` `OData Services` `CDS Views` `Function Modules` `SAP-ServiceNow Integration` `Enterprise Workflow Automation`
-
-### Data & Monitoring
-`SQL` `Vector Databases` `Splunk` `Power BI` `Matplotlib` `Application Monitoring` `Logging` `Telemetry`
-
----
-
-## Professional Experience
-
-### Software Engineer — Trago Technologies
-**United States | Jan 2026 – Present**
-
-- Develop scalable Python backend and AI services for recommendation, search, automation, and customer-facing workflows.
-- Engineered recommendation systems using **Sentence-BERT and FAISS** across 1M+ product embeddings, improving relevance by ~30%.
-- Built REST-based **RAG services** using vector retrieval and GPT models, reducing customer-support handling time by ~35%.
-- Optimized embeddings, chunking, retrieval, caching, and async processing, reducing inference latency by ~18%.
-- Reduced LLM operational costs by ~28% through prompt optimization and response caching.
-- Built ServiceNow integrations with Slack and Microsoft Teams, reducing manual ticket handling by ~45%.
-- Containerized services with Docker and implemented CI/CD workflows, increasing deployment frequency by ~40%.
-
-### Software Engineer – AI & Research — University of Memphis
-**Memphis, TN | Aug 2025 – Dec 2025**
-
-- Developed Python-based AI applications and backend workflows for healthcare research and clinical decision support.
-- Built pipelines for clinical notes, biomedical publications, and structured healthcare datasets using transformer models.
-- Applied **Graph Neural Networks** to model relationships among patients, diseases, treatments, and clinical attributes.
-- Built Generative AI applications with **OpenAI, Azure OpenAI, and Vertex AI** across 10+ research workflows.
-- Developed agentic AI systems with planning, memory, retrieval, tools, and structured outputs.
-- Built RAG pipelines using **FAISS and Pinecone** across 500K+ clinical and biomedical documents.
-
-### Software Engineer — Advintek Consulting Services, Client: NTUC Income
-**India | Jul 2022 – Dec 2023**
-
-- Developed enterprise software and automation solutions integrating Python AI services with SAP and cloud platforms.
-- Built backend integrations using **SAP OData, Function Modules, CDS Views, and REST APIs**.
-- Developed AI agents using **LangGraph and Model Context Protocol (MCP)** for diagnostics and workflow automation.
-- Built conversational application experiences using CopilotKit and Vercel AI SDK.
-- Deployed containerized services across AWS and Azure.
-- Integrated ServiceNow with SAP workflows for incident diagnostics, triage, updates, and resolution recommendations.
-
-### Software Engineer — Advintek Consulting Services, Client: RHB
-**India | Jan 2021 – Jun 2022**
-
-- Developed backend automation and enterprise integrations for ServiceNow-based incident workflows.
-- Built Python and API services for ticket processing, notifications, data retrieval, and resolution workflows.
-- Developed LLM-powered resolution recommendation capabilities using governed enterprise data.
-- Built ML models for ticket classification and anomaly detection.
-- Implemented telemetry and monitoring for application health, workflow failures, API performance, and automation behavior.
+```text
+Business Problem
+      ↓
+Enterprise Data / APIs
+      ↓
+Retrieval + Context Engineering
+      ↓
+LLM / Agent Reasoning
+      ↓
+Tools + Enterprise Actions
+      ↓
+Production API / Application
+      ↓
+Monitoring • Evaluation • Optimization
+```
 
 ---
 
-## Featured Engineering Focus
+## ⚡ AI Engineering Snapshot
 
-- Building **production-ready RAG systems** with scalable retrieval and re-ranking
-- Designing **Agentic AI workflows** with LangGraph and MCP
-- Developing **backend APIs and microservices** using Python and FastAPI
-- Integrating **AI with SAP, ServiceNow, and enterprise workflows**
-- Deploying cloud-native applications on **AWS, Azure, and GCP**
-- Improving latency, reliability, observability, and AI application cost efficiency
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Agentic AI
+Designing AI agents with **planning, memory, retrieval, tool calling and structured execution** using LangGraph, LangChain and MCP.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 RAG & Search
+Building retrieval pipelines with **FAISS, Pinecone, Sentence-BERT, semantic search, re-ranking and contextual compression**.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ AI Backend Engineering
+Production APIs and services using **Python, FastAPI, REST, async processing, caching and microservice patterns**.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Enterprise AI
+Connecting AI systems with **SAP, ServiceNow and enterprise APIs** to automate diagnostics, incidents and operational workflows.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Education
+## 🛠️ Technology Stack
+
+### AI / LLM Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-blueviolet?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6C5CE7?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-00897B?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-LLM-0467DF?style=flat-square)
+
+`AI Agents` · `Multi-Agent Systems` · `Tool Calling` · `Prompt Engineering` · `Embeddings` · `Semantic Search` · `Re-Ranking` · `Context Engineering`
+
+### Retrieval / Data
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-00A98F?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-000000?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square)
+
+`Sentence-BERT` · `Vector Databases` · `Data Preprocessing` · `Retrieval Evaluation`
+
+### Backend / Software Engineering
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+`REST APIs` · `Microservices` · `Flask` · `Async Processing` · `OOP` · `CI/CD`
+
+### Cloud / Enterprise
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+`Azure OpenAI` · `Azure AI Search` · `Vertex AI` · `AWS Lambda` · `ServiceNow` · `SAP` · `OData` · `Splunk` · `Power BI`
+
+---
+
+## 🚀 Selected Engineering Impact
+
+Rather than listing every responsibility, here are examples of the scale and outcomes behind my work:
+
+| Engineering Area | Impact |
+|---|---|
+| 🔎 **AI Recommendation** | Built Sentence-BERT + FAISS retrieval across **1M+ product embeddings**, improving recommendation relevance by ~**30%** |
+| 🧠 **RAG Applications** | Developed contextual product Q&A services that reduced customer-support handling time by ~**35%** |
+| ⚡ **AI Performance** | Optimized embeddings, retrieval, caching and async workflows to reduce inference latency by ~**18%** |
+| 💰 **LLM Optimization** | Reduced LLM operational cost by ~**28%** using prompt optimization, caching and reusable processing patterns |
+| 🤖 **Agentic Automation** | Built LangGraph/MCP-driven enterprise automation that reduced manual intervention by ~**35%** |
+| 🏢 **Enterprise Workflows** | Automated ServiceNow/SAP operational workflows and improved resolution time by ~**30%** |
+| 📚 **Research RAG** | Built retrieval pipelines across **500K+ clinical and biomedical documents** |
+
+---
+
+## 🧩 Areas I Work In
+
+```python
+ai_engineering = {
+    "agents": ["LangGraph", "MCP", "Tool Calling", "Multi-Agent Workflows"],
+    "rag": ["FAISS", "Pinecone", "Sentence-BERT", "Re-Ranking"],
+    "backend": ["Python", "FastAPI", "REST APIs", "Microservices"],
+    "cloud": ["AWS", "Azure", "GCP", "Docker", "CI/CD"],
+    "enterprise": ["SAP", "ServiceNow", "OData", "Workflow Automation"],
+    "focus": "Reliable AI systems that solve real business problems"
+}
+```
+
+---
+
+## 💼 Experience at a Glance
+
+**Software Engineer — Trago Technologies** · 2026–Present  
+Building production AI, recommendation, RAG, backend and enterprise automation services.
+
+**Software Engineer — AI & Research — University of Memphis** · 2025  
+Built agentic AI and RAG systems for healthcare and biomedical research workflows.
+
+**Software Engineer — Advintek Consulting Services** · 2021–2023  
+Developed enterprise backend integrations, AI automation, SAP/ServiceNow workflows and cloud-deployed services for client environments.
+
+---
+
+## 🎓 Education
 
 **Master of Science in Information Systems**  
-University of Memphis | Memphis, TN  
-2024 – 2025
+University of Memphis · Memphis, Tennessee
 
 ---
 
-## What I'm Interested In
+## 🎯 Currently Focused On
 
-I am interested in opportunities across:
-
-**Software Engineering · AI Engineering · Generative AI · Agentic AI · LLM Applications · RAG · MCP · Backend Engineering · Forward Deployed Engineering · Applied AI Engineering**
+- Production-grade **Agentic AI** architectures
+- **Model Context Protocol (MCP)** servers, tools and enterprise integrations
+- Advanced **RAG** and retrieval optimization
+- LLM evaluation, observability, latency and cost optimization
+- AI-powered backend platforms and **Forward Deployed Engineering**
+- Turning enterprise workflows into intelligent, automated systems
 
 ---
 
-## Let's Connect
+<div align="center">
 
-📧 **Email:** vaishuvishnupriya8121@gmail.com  
-📍 **Location:** Memphis, Tennessee, USA  
-💼 **GitHub:** [vaishnavi-265](https://github.com/vaishnavi-265)
+### 💬 Let's Build Something Intelligent
 
-> Building scalable software and AI systems that connect intelligent models with real-world enterprise workflows.
+I'm interested in **AI Engineer, Applied AI Engineer, Agentic AI Engineer, GenAI Engineer, Software Engineer and Forward Deployed Engineer** opportunities where AI is connected to real products and enterprise workflows.
+
+📧 **vaishuvishnupriya8121@gmail.com** &nbsp; | &nbsp; 📍 **Memphis, TN, USA**
+
+**Build → Evaluate → Deploy → Observe → Improve**
+
+</div>
