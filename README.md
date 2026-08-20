@@ -145,13 +145,13 @@ ai_engineering = {
 
 ## 💼 Experience at a Glance
 
-**Software Engineer — Trago Technologies** · 2026–Present  
+**AI Engineer — Trago Technologies** · 2026–Present  
 Building production AI, recommendation, RAG, backend and enterprise automation services.
 
-**Software Engineer — AI & Research — University of Memphis** · 2025  
+**AI Engineer — AI & Research — University of Memphis** · 2025  
 Built agentic AI and RAG systems for healthcare and biomedical research workflows.
 
-**Software Engineer — Advintek Consulting Services** · 2021–2023  
+**AI & Software Engineer — Advintek Consulting Services** · 2021–2023  
 Developed enterprise backend integrations, AI automation, SAP/ServiceNow workflows and cloud-deployed services for client environments.
 
 ---
@@ -180,7 +180,7 @@ University of Memphis · Memphis, Tennessee
 
 I'm interested in **AI Engineer, Applied AI Engineer, Agentic AI Engineer, GenAI Engineer, Software Engineer and Forward Deployed Engineer** opportunities where AI is connected to real products and enterprise workflows.
 
-📧 **vaishuvishnupriya8121@gmail.com** &nbsp; | &nbsp; 📍 **Memphis, TN, USA**
+📧 **vaishuvishnupriya8121@gmail.com** &nbsp; | &nbsp; 📍 USA**
 
 **Build → Evaluate → Deploy → Observe → Improve**
 
