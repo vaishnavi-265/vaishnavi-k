@@ -6,7 +6,7 @@
 
 **Agentic AI · RAG · MCP · LLM Applications · Backend Engineering · Enterprise AI**
 
-📍 Memphis, TN &nbsp;•&nbsp; 📧 vaishuvishnupriya8121@gmail.com
+📍 USA &nbsp;•&nbsp; 📧 vaishuvishnupriya8121@gmail.com
 
 [![GitHub](https://img.shields.io/badge/GitHub-vaishnavi--265-181717?style=for-the-badge&logo=github)](https://github.com/vaishnavi-265)
 [![Email](https://img.shields.io/badge/Email-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishuvishnupriya8121@gmail.com)
@@ -180,7 +180,7 @@ University of Memphis · Memphis, Tennessee
 
 I'm interested in **AI Engineer, Applied AI Engineer, Agentic AI Engineer, GenAI Engineer, Software Engineer and Forward Deployed Engineer** opportunities where AI is connected to real products and enterprise workflows.
 
-📧 **vaishuvishnupriya8121@gmail.com** &nbsp; | &nbsp; 📍 USA**
+📧 **vaishuvishnupriya8121@gmail.com** &nbsp; | &nbsp; 📍 **USA**
 
 **Build → Evaluate → Deploy → Observe → Improve**
 
