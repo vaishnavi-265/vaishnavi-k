@@ -17,7 +17,7 @@
 
 ## 🧠 What I Build
 
-I build **AI systems that move beyond demos into real applications** — intelligent agents that use tools, RAG platforms that retrieve the right enterprise context, and backend services that connect LLMs with real business workflows.
+I build **AI systems that move beyond demos into real applications**  intelligent agents that use tools, RAG platforms that retrieve the right enterprise context, and backend services that connect LLMs with real business workflows.
 
 My work sits at the intersection of **AI engineering, backend development, cloud infrastructure, and enterprise integration**. I have worked with large-scale vector retrieval, agentic workflows, recommendation systems, SAP and ServiceNow integrations, and production AI services across AWS, Azure, and GCP.
 
@@ -145,13 +145,13 @@ ai_engineering = {
 
 ## 💼 Experience at a Glance
 
-**AI Engineer — Trago Technologies** · 2026–Present  
+**AI Engineer - Trago Technologies** · 2026–Present  
 Building production AI, recommendation, RAG, backend and enterprise automation services.
 
-**AI Engineer — AI & Research — University of Memphis** · 2025  
+**AI Engineer - AI & Research — University of Memphis** · 2025  
 Built agentic AI and RAG systems for healthcare and biomedical research workflows.
 
-**AI & Software Engineer — Advintek Consulting Services** · 2021–2023  
+**AI & Software Engineer - Advintek Consulting Services** · 2021–2023  
 Developed enterprise backend integrations, AI automation, SAP/ServiceNow workflows and cloud-deployed services for client environments.
 
 ---
